@@ -2,3 +2,7 @@ body {
     font-family: 'Abril Fatface', cursive;
     font-family: 'Poppins', sans-serif;
 }
+
+.courses-card-fs-1 {
+    font-size: 16px;
+}
