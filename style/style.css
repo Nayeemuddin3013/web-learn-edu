@@ -6,3 +6,8 @@ body {
 .courses-card-fs-1 {
     font-size: 16px;
 }
+
+.web-position-absolute {
+    position: absolute;
+    bottom: 50%;
+}
